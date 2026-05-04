@@ -62,7 +62,7 @@ I help businesses turn ideas into production-ready systems — from backend arch
 ### 📬 Contact & Connect
 - **Portfolio:** [kodeku.web.app](https://kodeku.web.app)
 - **Email:** alamhafidz61@gmail.com
-- **LinkedIn:** [Add your LinkedIn Link]
+- **LinkedIn:** [linkedin.com/in/alam-santiko-wibowo](https://linkedin.com/in/alam-santiko-wibowo)
 - **GitHub:** [github.com/snipkode](https://github.com/snipkode)
 
 ---
