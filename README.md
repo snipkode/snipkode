@@ -15,7 +15,7 @@ I help businesses turn ideas into production-ready systems — from backend arch
 ---
 
 ### 💼 What I Can Do For You
-- **Backend Systems:** Robust Node.js architectures, REST APIs, and SaaS foundations.
+- **Backend Systems:** Robust architectures using Node.js, Rust, Go, Java, and Python.
 - **AI Solutions:** Custom AI-powered applications (RAG, Chatbots, Automation).
 - **Architecture:** Scalable system design from MVP to production-grade.
 - **Security:** Secure authentication (JWT, OTP, RBAC) and infrastructure hardening.
@@ -25,7 +25,7 @@ I help businesses turn ideas into production-ready systems — from backend arch
 
 ### 🛠️ Tech Stack
 
-- **Backend:** Node.js, Express.js, REST API, Microservices, Supabase.
+- **Backend:** Node.js, Rust, Go, Java (Spring Boot), Python (FastAPI/Flask), Express.js.
 - **Frontend:** React.js, Next.js, Tailwind CSS.
 - **Database:** PostgreSQL, MySQL, NoSQL (Total.js Total4).
 - **Infrastructure:** Docker, WireGuard VPN, NAT Networking, Cloudflare Tunnel.
