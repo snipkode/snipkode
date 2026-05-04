@@ -49,6 +49,12 @@ With a dual background in **Computer Science & Law**, I bring a unique edge in:
 #### 🌳 **Family Tree SaaS (e-Marga)**
 - Interactive multi-generation visualization.
 - Privacy-first architecture for long-term data persistence.
+- 🔗 **Live Demo:** [e-marga.web.app](https://e-marga.web.app)
+
+#### 🎓 **JagoJS (Bootcamp Platform)**
+- Comprehensive learning management system for developers.
+- Built for scalability and high-quality content delivery.
+- 🔗 **Live Demo:** [jagojs.vercel.app](https://jagojs.vercel.app)
 
 #### 💬 **WhatsApp Bot Builder (BotInit)**
 - SaaS platform with subscription (Midtrans integration).
@@ -73,6 +79,7 @@ With a dual background in **Computer Science & Law**, I bring a unique edge in:
 ---
 
 ### 📬 Contact & Connect
+- 🌐 **Portfolio:** [kodeku.web.app](https://kodeku.web.app)
 - 📧 **Email:** [alamhafidz61@gmail.com](mailto:alamhafidz61@gmail.com)
 - 💼 **LinkedIn:** [Add your LinkedIn Link Here]
 - 🐙 **GitHub:** [github.com/snipkode](https://github.com/snipkode)
