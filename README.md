@@ -1,55 +1,84 @@
-# 👋 Hi, I'm @snipkode
-### Full Stack Developer | Rust Enthusiast | Backend Specialist
+# 🚀 Hi, I'm Alam Wibowo
 
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=snipkode&color=blueviolet&style=flat-square" alt="snipkode" />
-</p>
+### **Senior Fullstack Developer & Infrastructure Engineer**
+**Building scalable systems, AI-powered products, and secure backend architectures.**
 
 ---
 
-### 🚀 About Me
-- 🦀 Currently deep-diving into **Rust** and its ecosystem.
-- 🌐 Building scalable web applications with **Node.js** and **React**.
-- 🛠️ Interested in **Clean Architecture**, **Microservices**, and **Database Optimization**.
-- 🔭 Always looking for new challenges and open-source contributions.
+### 🌍 About Me
+I help businesses turn ideas into production-ready systems — from backend architecture to AI integration.
+
+With a dual background in **Computer Science & Law**, I bring a unique edge in:
+- 🏗️ **System Reliability & Scalability**
+- 🔐 **Security & Compliance Awareness**
+- 💡 **Business-Oriented Technical Decisions**
+
+> **💼 Open for: Remote Projects / Contract / Long-term Collaboration**
+
+---
+
+### 💼 What I Can Do For You
+- ⚙️ **Build robust backend systems** (Node.js, API, SaaS)
+- 🤖 **Develop AI-powered applications** (Chatbot, RAG, Automation)
+- 🌐 **Design scalable system architecture**
+- 🔐 **Implement secure authentication** (JWT, OTP, Role-based access)
+- ☁️ **Setup infrastructure & networking** (Docker, VPN, tunneling)
+- 📈 **Turn MVP into production-ready product**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | Node.js, Express.js, REST API, Microservices, Supabase |
+| **Frontend** | React.js, Next.js, Tailwind CSS |
+| **Database** | PostgreSQL, MySQL, NoSQL (Total.js Total4) |
+| **Infrastructure** | Docker, WireGuard VPN, NAT Networking, Cloudflare Tunnel |
+| **AI / Automation** | Ollama (Local AI), RAG (Vector DB), NLP |
 
-**Databases & Tools:**
+---
+
+### 🚀 Selected Projects
+
+#### 🤖 **AI Chatbot SaaS (Multivendor)**
+- AI trained with custom product knowledge (RAG).
+- Built for sales conversion, not just conversation.
+- WhatsApp & API integration.
+
+#### 🌳 **Family Tree SaaS (e-Marga)**
+- Interactive multi-generation visualization.
+- Privacy-first architecture for long-term data persistence.
+
+#### 💬 **WhatsApp Bot Builder (BotInit)**
+- SaaS platform with subscription (Midtrans integration).
+- Multi-tenant system with automation workflows.
+
+---
+
+### 🧠 How I Work
+- ✅ **Clear communication & async-friendly**
+- ✅ **Focus on business impact**, not just code
+- ✅ **Clean, maintainable, and scalable architecture**
+- ✅ **Fast iteration** with structured thinking
+
+---
+
+### 📊 GitHub Activity
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snipkode&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="snipkode stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipkode&layout=compact&theme=radical&hide_border=true" alt="top languages" height="150px" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snipkode&show_icons=true&theme=radical" alt="snipkode's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipkode&layout=compact&theme=radical" alt="Top Langs" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snipkode&theme=radical" alt="GitHub Streak" />
-</p>
+### 📬 Contact & Connect
+- 📧 **Email:** [alamhafidz61@gmail.com](mailto:alamhafidz61@gmail.com)
+- 💼 **LinkedIn:** [Add your LinkedIn Link Here]
+- 🐙 **GitHub:** [github.com/snipkode](https://github.com/snipkode)
 
 ---
 
-### 📫 Connect with me
-<p align="left">
-  <a href="https://github.com/snipkode" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+### ⚡ Philosophy
+> *"Good code works. Great systems scale."*
 
