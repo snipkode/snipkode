@@ -6,83 +6,64 @@
 ---
 
 ### 🌍 About Me
-I help businesses turn ideas into production-ready systems — from backend architecture to AI integration.
+I help businesses turn ideas into production-ready systems — from backend architecture to AI integration. With a dual background in **Computer Science & Law**, I bring a unique edge in building reliable, secure, and compliant systems that align with business goals.
 
-With a dual background in **Computer Science & Law**, I bring a unique edge in:
-- 🏗️ **System Reliability & Scalability**
-- 🔐 **Security & Compliance Awareness**
-- 💡 **Business-Oriented Technical Decisions**
-
-> **💼 Open for: Remote Projects / Contract / Long-term Collaboration**
+- **Focus:** System Reliability, Security & Scalability.
+- **Approach:** Business-oriented technical decisions.
+- **Availability:** Open for Remote Projects, Contract, or Long-term Collaboration.
 
 ---
 
 ### 💼 What I Can Do For You
-- ⚙️ **Build robust backend systems** (Node.js, API, SaaS)
-- 🤖 **Develop AI-powered applications** (Chatbot, RAG, Automation)
-- 🌐 **Design scalable system architecture**
-- 🔐 **Implement secure authentication** (JWT, OTP, Role-based access)
-- ☁️ **Setup infrastructure & networking** (Docker, VPN, tunneling)
-- 📈 **Turn MVP into production-ready product**
+- **Backend Systems:** Robust Node.js architectures, REST APIs, and SaaS foundations.
+- **AI Solutions:** Custom AI-powered applications (RAG, Chatbots, Automation).
+- **Architecture:** Scalable system design from MVP to production-grade.
+- **Security:** Secure authentication (JWT, OTP, RBAC) and infrastructure hardening.
+- **Infrastructure:** Docker orchestration, VPN networking, and secure tunneling.
 
 ---
 
 ### 🛠️ Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | Node.js, Express.js, REST API, Microservices, Supabase |
-| **Frontend** | React.js, Next.js, Tailwind CSS |
-| **Database** | PostgreSQL, MySQL, NoSQL (Total.js Total4) |
-| **Infrastructure** | Docker, WireGuard VPN, NAT Networking, Cloudflare Tunnel |
-| **AI / Automation** | Ollama (Local AI), RAG (Vector DB), NLP |
+- **Backend:** Node.js, Express.js, REST API, Microservices, Supabase.
+- **Frontend:** React.js, Next.js, Tailwind CSS.
+- **Database:** PostgreSQL, MySQL, NoSQL (Total.js Total4).
+- **Infrastructure:** Docker, WireGuard VPN, NAT Networking, Cloudflare Tunnel.
+- **AI & Automation:** Ollama (Local AI), RAG (Vector DB), NLP.
 
 ---
 
 ### 🚀 Selected Projects
 
-#### 🤖 **AI Chatbot SaaS (Multivendor)**
-- AI trained with custom product knowledge (RAG).
-- Built for sales conversion, not just conversation.
-- WhatsApp & API integration.
+- **AI Chatbot SaaS (Multivendor)**
+  Custom RAG-based AI trained for sales conversion. Integrated with WhatsApp and external APIs.
 
-#### 🌳 **Family Tree SaaS (e-Marga)**
-- Interactive multi-generation visualization.
-- Privacy-first architecture for long-term data persistence.
-- 🔗 **Live Demo:** [e-marga.web.app](https://e-marga.web.app)
+- **Family Tree SaaS (e-Marga)**
+  Interactive multi-generation visualization with a privacy-first architecture.
+  🔗 [e-marga.web.app](https://e-marga.web.app)
 
-#### 🎓 **JagoJS (Bootcamp Platform)**
-- Comprehensive learning management system for developers.
-- Built for scalability and high-quality content delivery.
-- 🔗 **Live Demo:** [jagojs.vercel.app](https://jagojs.vercel.app)
+- **JagoJS (Bootcamp Platform)**
+  Comprehensive LMS for developer training, focused on scalability and performance.
+  🔗 [jagojs.vercel.app](https://jagojs.vercel.app)
 
-#### 💬 **WhatsApp Bot Builder (BotInit)**
-- SaaS platform with subscription (Midtrans integration).
-- Multi-tenant system with automation workflows.
+- **WhatsApp Bot Builder (BotInit)**
+  Multi-tenant automation platform with Midtrans subscription integration.
 
 ---
 
-### 🧠 How I Work
-- ✅ **Clear communication & async-friendly**
-- ✅ **Focus on business impact**, not just code
-- ✅ **Clean, maintainable, and scalable architecture**
-- ✅ **Fast iteration** with structured thinking
-
----
-
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=snipkode&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="snipkode stats" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipkode&layout=compact&theme=radical&hide_border=true" alt="top languages" height="150px" />
-</p>
+### 🧠 Professional Standards
+- ✅ **Async-Friendly:** Clear and structured communication.
+- ✅ **Value-First:** Focus on business impact, not just writing code.
+- ✅ **Maintainable:** Clean and scalable architecture by default.
+- ✅ **Fast Iteration:** Rapid delivery through structured thinking.
 
 ---
 
 ### 📬 Contact & Connect
-- 🌐 **Portfolio:** [kodeku.web.app](https://kodeku.web.app)
-- 📧 **Email:** [alamhafidz61@gmail.com](mailto:alamhafidz61@gmail.com)
-- 💼 **LinkedIn:** [Add your LinkedIn Link Here]
-- 🐙 **GitHub:** [github.com/snipkode](https://github.com/snipkode)
+- **Portfolio:** [kodeku.web.app](https://kodeku.web.app)
+- **Email:** alamhafidz61@gmail.com
+- **LinkedIn:** [Add your LinkedIn Link]
+- **GitHub:** [github.com/snipkode](https://github.com/snipkode)
 
 ---
 
